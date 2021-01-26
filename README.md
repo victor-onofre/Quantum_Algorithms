@@ -13,6 +13,6 @@
 - Find the lowest eigenvalue of a 4x4 matrix using Variational-Quantum-Eigensolver (VQE)-like circuits, created by yourself from scratch.
 - This was the screening task for the 2019 Quantum Computing Mentorship Program in the Quantum Open Source Foundation ([qosf.org](https://qosf.org/)).
 
-4. **The Deutsch Algorithm**(nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Deutsch_Algorithm.ipynb) )
+4. **The Deutsch Algorithm** (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Deutsch_Algorithm.ipynb))
 
 
