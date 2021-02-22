@@ -8,7 +8,7 @@
 
 - I explain the quantum teleportation protocol step by step and represent the initial and final qubits in the Bloch sphere.
 
-3.  **Variational Quantum Eigensolver**
+3.  **Variational Quantum Eigensolver**  (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Variational_quantum_eigensolver_4x4_Matrix.ipynb).) 
 
 - Find the lowest eigenvalue of a 4x4 matrix using Variational-Quantum-Eigensolver (VQE)-like circuits, created by yourself from scratch.
 - This was the screening task for the 2019 Quantum Computing Mentorship Program in the Quantum Open Source Foundation ([qosf.org](https://qosf.org/)).
