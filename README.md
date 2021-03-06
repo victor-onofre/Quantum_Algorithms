@@ -15,4 +15,6 @@
 
 4. **The Deutsch Algorithm** (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Deutsch_Algorithm.ipynb))
 
+5. **The Deutsch-Jozsa Algorithm** (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Deutsch-Jozsa_Algorithm.ipynb))
 
+- Solves the generalization of the problem solved by the Deutsch algorithm
