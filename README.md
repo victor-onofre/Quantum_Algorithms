@@ -22,3 +22,5 @@
 6. **The bit-flip and sign-flip code for the bell state generator** (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/The_bit_flip_and_the_sign_flip_code_bell_state_generator.ipynb))
 
 - This was my screening task for the 2021 Quantum Computing Mentorship Program in the Quantum Open Source Foundation ([qosf.org](https://qosf.org/)).
+
+7. **The Bernstein-Vazirani Algorithm**
