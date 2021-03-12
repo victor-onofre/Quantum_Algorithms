@@ -23,4 +23,5 @@
 
 - This was my screening task for the 2021 Quantum Computing Mentorship Program in the Quantum Open Source Foundation ([qosf.org](https://qosf.org/)).
 
-7. **The Bernstein-Vazirani Algorithm**
+7. **The Bernstein-Vazirani Algorithm**  (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/The_Bernstein_Vazirani_Algorithm.ipynb))
+
