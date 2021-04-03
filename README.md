@@ -25,3 +25,8 @@
 
 7. **The Bernstein-Vazirani Algorithm**  (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/The_Bernstein_Vazirani_Algorithm.ipynb))
 
+8. **Quantum Fourier Transform**
+- Application of the Quantum Fourier Transform to the state |1100> step by step.
+
+9. **Quantum Phase Estimation**
+
