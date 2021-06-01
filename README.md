@@ -28,7 +28,7 @@
 8. **Quantum Fourier Transform** (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Quantum_Fourier_Transform.ipynb))
 - Application of the Quantum Fourier Transform to the state |1100> step by step.
 
-9. **Quantum Phase Estimation**(nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Quantum_Phase_Estimation.ipynb))
+9. **Quantum Phase Estimation** (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/Quantum_Phase_Estimation.ipynb))
 
-10. **Quantum Approximate Optimization Algorithm (QAOA) for the Max-cut problem**(nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/QAOA_maxcut_Victor_Onofre.ipynb))
+10. **Quantum Approximate Optimization Algorithm (QAOA) for the Max-cut problem** (nbviewer [here](https://nbviewer.jupyter.org/github/victor-onofre/Quantum_Algorithms/blob/main/QAOA_maxcut_Victor_Onofre.ipynb))
 
